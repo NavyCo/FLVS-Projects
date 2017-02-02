@@ -1,2 +1,2 @@
 # Assignments
-- [05.02](assignments/05.02/)
+- [05.02](Assignments/05.02/)
